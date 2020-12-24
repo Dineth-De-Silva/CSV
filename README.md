@@ -1,4 +1,4 @@
-# CSV
+# Csv
 Write & read comma delimited data in a csv file by python
 ## Quick Start
 Run *"Run.py"* by typing **Python Run.py** in the Terminal
